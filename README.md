@@ -31,7 +31,7 @@ A aplicação possibilita o cadastro, visualização, edição e exclusão de pa
 
 ---
 
-🎯 Objetivos da Aplicação
+Objetivos da Aplicação
 Permitir o cadastro de colaboradores participantes do evento.
 Exibir listagens detalhadas com todos os dados cadastrados.
 Possibilitar a edição e atualização de informações dos colaboradores.
@@ -40,14 +40,14 @@ Restringir o acesso às funcionalidades somente a usuários autenticados por mei
 
 ---
 
-🛠️ Tecnologias Utilizadas
+ Tecnologias Utilizadas
 Laravel 12 — Framework PHP para desenvolvimento web
 Laravel Breeze — Sistema simples e leve de autenticação
 MySQL (ou outro banco de dados relacional) — Armazenamento de dados
 
 ---
 
-📋 Campos do Formulário de Cadastro
+Campos do Formulário de Cadastro
 O cadastro de cada colaborador deve conter os seguintes dados:
 
 Nome completo (campo obrigatório)
